@@ -1,0 +1,14 @@
+D:\curso.Net\POO\bin\Debug\net8.0\POO.exe
+D:\curso.Net\POO\bin\Debug\net8.0\POO.deps.json
+D:\curso.Net\POO\bin\Debug\net8.0\POO.runtimeconfig.json
+D:\curso.Net\POO\bin\Debug\net8.0\POO.dll
+D:\curso.Net\POO\bin\Debug\net8.0\POO.pdb
+D:\curso.Net\POO\obj\Debug\net8.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\curso.Net\POO\obj\Debug\net8.0\POO.AssemblyInfoInputs.cache
+D:\curso.Net\POO\obj\Debug\net8.0\POO.AssemblyInfo.cs
+D:\curso.Net\POO\obj\Debug\net8.0\POO.csproj.CoreCompileInputs.cache
+D:\curso.Net\POO\obj\Debug\net8.0\POO.dll
+D:\curso.Net\POO\obj\Debug\net8.0\refint\POO.dll
+D:\curso.Net\POO\obj\Debug\net8.0\POO.pdb
+D:\curso.Net\POO\obj\Debug\net8.0\POO.genruntimeconfig.cache
+D:\curso.Net\POO\obj\Debug\net8.0\ref\POO.dll
